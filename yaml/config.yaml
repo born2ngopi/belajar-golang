@@ -1,0 +1,14 @@
+name: chandra
+sarapan:
+  - makan: nasi
+    minum: esteh
+  - makan: mie
+    minum: es jeruk
+
+sekolah:
+  sd:
+    name: sd1 makarti
+  smp:
+    name: smp2 tumijajar
+  sma:
+    name: sma1 tumijajar
